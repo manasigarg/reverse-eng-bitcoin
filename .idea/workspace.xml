@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56f96a22-92b2-4054-b9bb-365be2ba8299" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rev_eng/rev_eng.v2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bitcoin_rev_eng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bitcoin_rev_eng.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="3lbpohv9" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/bitcoin_rev_eng.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1azyiu8PwauBvmYDYkMW3NUeYtO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/rev_eng" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rev_eng" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.rev_eng.v2">
+    <configuration name="rev_eng.v1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bitcoin_rev_eng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rev_eng" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rev_eng/rev_eng.v1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rev_eng.v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bitcoin_rev_eng" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rev_eng" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rev_eng/rev_eng.v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.rev_eng.v2" />
+        <item itemvalue="Python.rev_eng.v1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56f96a22-92b2-4054-b9bb-365be2ba8299" name="Default Changelist" comment="" />
+      <created>1564369948509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564369948509</updated>
+      <workItem from="1587752849047" duration="2176000" />
+      <workItem from="1588279267772" duration="3080000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="199" y="135" width="1344" height="673" key="#xdebugger.evaluate" timestamp="1588280986396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="199" y="135" width="1344" height="673" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1588280986396" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587752867543">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1587752867543" />
+    <state width="1807" height="331" key="GridCell.Tab.0.bottom" timestamp="1588281596129">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="331" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588281596129" />
+    <state width="1807" height="331" key="GridCell.Tab.0.center" timestamp="1588281596129">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="331" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588281596129" />
+    <state width="1807" height="331" key="GridCell.Tab.0.left" timestamp="1588281596129">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="331" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588281596129" />
+    <state width="1807" height="331" key="GridCell.Tab.0.right" timestamp="1588281596129">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="331" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588281596129" />
+    <state width="1807" height="331" key="GridCell.Tab.1.bottom" timestamp="1588281596795">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="331" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1588281596795" />
+    <state width="1807" height="331" key="GridCell.Tab.1.center" timestamp="1588281596794">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="331" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1588281596794" />
+    <state width="1807" height="331" key="GridCell.Tab.1.left" timestamp="1588281596794">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="331" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1588281596794" />
+    <state width="1807" height="331" key="GridCell.Tab.1.right" timestamp="1588281596795">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="331" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1588281596795" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1587752909447">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1587752909447" />
+    <state width="926" height="527" key="XDebugger.FullValuePopup" timestamp="1588281657014">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="527" key="XDebugger.FullValuePopup/67.27.1853.1053@67.27.1853.1053" timestamp="1588281657014" />
+    <state x="640" y="341" width="696" height="423" key="git4idea.merge.GitPullDialog" timestamp="1587839624825">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="640" y="341" width="696" height="423" key="git4idea.merge.GitPullDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587839624825" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bitcoin/transaction.py</url>
+          <line>366</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bitcoin/transaction.py</url>
+          <line>230</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bitcoin/transaction.py</url>
+          <line>369</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bitcoin/main.py</url>
+          <line>527</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i['address']" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bitcoin_rev_eng$rev_eng_v1.coverage" NAME="rev_eng.v1 Coverage Results" MODIFIED="1588279277285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rev_eng" />
+    <SUITE FILE_PATH="coverage/bitcoin_rev_eng$rev_eng_v2.coverage" NAME="rev_eng.v2 Coverage Results" MODIFIED="1588281596049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/rev_eng" />
+  </component>
+</project>
